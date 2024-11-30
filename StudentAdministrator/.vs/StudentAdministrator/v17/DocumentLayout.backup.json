@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\david.m\\documents\\practica de poe\\proyecto completo con buscadores-20241127\\proyecto completo con buscadores\\studentadministrator\\dataaccesslayer\\dbconnection\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbconnection\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\david.m\\documents\\practica de poe\\proyecto completo con buscadores-20241127\\proyecto completo con buscadores\\studentadministrator\\presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\david.m\\documents\\practica de poe\\proyecto completo con buscadores-20241127\\proyecto completo con buscadores\\studentadministrator\\dataaccesslayer\\repositories\\careerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\careerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbConnection\\SqlDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:23:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CareerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\DataAccessLayer\\Repositories\\CareerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CareerRepository.cs",
+              "ToolTip": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\DataAccessLayer\\Repositories\\CareerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CareerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:55:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwJ0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:46:25.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DAVID.M\\Documents\\practica de poe\\Proyecto Completo Con Buscadores-20241127\\Proyecto Completo Con Buscadores\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\wr190\\OneDrive\\Escritorio\\Proyecto Completo Con Roles\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\wr190\\OneDrive\\Escritorio\\Proyecto Completo Con Roles\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:45:38.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
